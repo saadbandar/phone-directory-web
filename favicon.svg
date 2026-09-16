@@ -1,0 +1,27 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="180" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6ac7bd"/>
+      <stop offset="100%" stop-color="#3c7974"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="36" fill="url(#grad)"/>
+  <!-- Book body -->
+  <rect x="46" y="34" width="88" height="112" rx="10" fill="white" fill-opacity="0.95"/>
+  <!-- Book spine tabs -->
+  <rect x="38" y="56" width="10" height="8" rx="3" fill="white" fill-opacity="0.7"/>
+  <rect x="38" y="76" width="10" height="8" rx="3" fill="white" fill-opacity="0.7"/>
+  <rect x="38" y="96" width="10" height="8" rx="3" fill="white" fill-opacity="0.7"/>
+  <!-- Contact row 1 -->
+  <circle cx="63" cy="63" r="7" fill="#6ac7bd" fill-opacity="0.35"/>
+  <rect x="76" y="58" width="42" height="5" rx="2.5" fill="#3c7974" fill-opacity="0.8"/>
+  <rect x="76" y="67" width="30" height="3.5" rx="1.75" fill="#6ac7bd" fill-opacity="0.6"/>
+  <!-- Contact row 2 -->
+  <circle cx="63" cy="91" r="7" fill="#6ac7bd" fill-opacity="0.35"/>
+  <rect x="76" y="86" width="42" height="5" rx="2.5" fill="#3c7974" fill-opacity="0.8"/>
+  <rect x="76" y="95" width="30" height="3.5" rx="1.75" fill="#6ac7bd" fill-opacity="0.6"/>
+  <!-- Contact row 3 -->
+  <circle cx="63" cy="119" r="7" fill="#6ac7bd" fill-opacity="0.35"/>
+  <rect x="76" y="114" width="42" height="5" rx="2.5" fill="#3c7974" fill-opacity="0.8"/>
+  <rect x="76" y="123" width="30" height="3.5" rx="1.75" fill="#6ac7bd" fill-opacity="0.6"/>
+</svg>
